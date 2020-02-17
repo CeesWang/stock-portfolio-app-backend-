@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ticker: MyText
+  price: 9.99
+  quantity: MyString
+  integer: MyString
+
+two:
+  ticker: MyText
+  price: 9.99
+  quantity: MyString
+  integer: MyString
